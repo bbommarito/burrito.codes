@@ -1,0 +1,3 @@
+[submodule "burrito.codes-data"]
+	path = burrito.codes-data
+	url = git@github.com:bbommarito/burrito.codes-data.git
